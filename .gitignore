@@ -1,0 +1,26 @@
+# mdBook build output
+book/
+
+# Node.js dependencies
+node_modules/
+
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Vim temporary files
+*.swp
+*.swo
+
+# Environment files
+.env
+.env.*
+
+# Backup files
+*.bak
+*~
+
+# Log files
+*.log

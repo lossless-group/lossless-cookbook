@@ -1,0 +1,6 @@
+[book]
+authors = ["mpstaton"]
+language = "en"
+multilingual = false
+src = "src"
+title = "The Lossless Innovation Cookbook"
